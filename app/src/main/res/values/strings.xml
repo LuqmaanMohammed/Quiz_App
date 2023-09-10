@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="developer_company">Innovations</string>
+    <string name="alm">ALM</string>
+    <string name="quizIcon">QuizIcon</string>
+    <string name="hintName">Enter your Name</string>
+    <string name="start">Start</string>
+    <string name="about">About</string>
+    <string name="developers">Developers</string>
+    <string name="gmail1">m.a.luqmaan2514@gmail.com</string>
+    <string name="ceo">Abdul Luqmaan</string>
+    <string name="cs">ChandraSheker</string>
+    <string name="gmail2">chandraSheker@gmail.com</string>
+    <string name="back">Back</string>
+    <string name="question">Question?""</string>
+    <string name="username">Hello</string>
+    <string name="optionA">optionA</string>
+    <string name="optionB">optionB</string>
+    <string name="optionC">optionC</string>
+    <string name="optionD">optionD</string>
+    <string name="next_question">Next Question</string>
+    <string name="nxtqn">NEXT QUESTION</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="your_score">Your Score</string>
+    <string name="quit">Quit</string>
+    <string name="score">Score:</string>
+    <string name="_0">0</string>
+    <string name="hello_user">Hello User</string>
+    <string name="hello">"Hello "</string>
+    <string name="restart">RESTART</string>
+
+
+    <string name="enter_name">Enter your Name</string>
+
+
+
+    <string name="about_name">SIDDHARTHA SIRASANAVADA</string>
+    <string name="mail">sirasanavadasiddhartha@gmail.com</string>
+
+
+
+
+
+    <string name="correct">Correct Answers:</string>
+    <string name="wrong">Wrong Answers:</string>
+    <string name="Final">Final Score:</string>
+
+    <string name="o">0</string>
+    <string name="questions">Questions</string>
+
+
+</resources>
